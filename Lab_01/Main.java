@@ -43,6 +43,7 @@ public class Main
 
         // 9. Returns a formatted string
         // using the specified locale, format string, and arguments
+        // test case for edit
         String product = "bread";
         double price = 4.99;
         String str = String.format("The price of %s is $%.2f", product, price);
